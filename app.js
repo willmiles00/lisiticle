@@ -2,6 +2,9 @@ let listArea = document.querySelector('#listArea')
 let listInput = document.querySelector('#listInput')
 let listButton = document.querySelector('#listButton')
 
+// where we last left off: Trying to get list length
+// const listCount = listArea.querySelectorAll('li').length
+// console.log('the list is currently ' + listCount + ' items long')
 
 //initial to do list
 let toDoList = [
